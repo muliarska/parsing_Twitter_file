@@ -1,0 +1,1517 @@
+{
+  "users": [
+    {
+      "id": 29458079,
+      "id_str": "29458079",
+      "name": "Jeanine Pirro",
+      "screen_name": "JudgeJeanine",
+      "location": "New York, NY",
+      "description": "Judge Pirro is a highly respected District Attorney, Judge, author & renowned champion of the underdog. She hosts the Fox News show, Justice with Judge Jeanine.",
+      "url": "https://t.co/tpWA70DIe0",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/tpWA70DIe0",
+              "expanded_url": "http://bit.ly/radicalsresistance",
+              "display_url": "bit.ly/radicalsresist…",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1891556,
+      "friends_count": 463,
+      "listed_count": 5188,
+      "created_at": "Tue Apr 07 14:27:06 +0000 2009",
+      "favourites_count": 243,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 17154,
+      "lang": null,
+      "status": {
+        "created_at": "Sun Feb 23 03:16:59 +0000 2020",
+        "id": 1231417644378656768,
+        "id_str": "1231417644378656768",
+        "text": "And that’s a wrap. See you next Saturday! https://t.co/2e6kWmflAs",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [],
+          "media": [
+            {
+              "id": 1231417640670973953,
+              "id_str": "1231417640670973953",
+              "indices": [
+                42,
+                65
+              ],
+              "media_url": "http://pbs.twimg.com/media/ERbf0eJX0AETj8C.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/ERbf0eJX0AETj8C.jpg",
+              "url": "https://t.co/2e6kWmflAs",
+              "display_url": "pic.twitter.com/2e6kWmflAs",
+              "expanded_url": "https://twitter.com/JudgeJeanine/status/1231417644378656768/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 720,
+                  "h": 960,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 510,
+                  "h": 680,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 720,
+                  "h": 960,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "extended_entities": {
+          "media": [
+            {
+              "id": 1231417640670973953,
+              "id_str": "1231417640670973953",
+              "indices": [
+                42,
+                65
+              ],
+              "media_url": "http://pbs.twimg.com/media/ERbf0eJX0AETj8C.jpg",
+              "media_url_https": "https://pbs.twimg.com/media/ERbf0eJX0AETj8C.jpg",
+              "url": "https://t.co/2e6kWmflAs",
+              "display_url": "pic.twitter.com/2e6kWmflAs",
+              "expanded_url": "https://twitter.com/JudgeJeanine/status/1231417644378656768/photo/1",
+              "type": "photo",
+              "sizes": {
+                "thumb": {
+                  "w": 150,
+                  "h": 150,
+                  "resize": "crop"
+                },
+                "medium": {
+                  "w": 720,
+                  "h": 960,
+                  "resize": "fit"
+                },
+                "small": {
+                  "w": 510,
+                  "h": 680,
+                  "resize": "fit"
+                },
+                "large": {
+                  "w": 720,
+                  "h": 960,
+                  "resize": "fit"
+                }
+              }
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 158,
+        "favorite_count": 1011,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/850023968484368386/jBcIv7W1_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/850023968484368386/jBcIv7W1_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/29458079/1579535022",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "187CAB",
+      "profile_sidebar_fill_color": "92CEE0",
+      "profile_text_color": "333333",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "live_following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "muting": false,
+      "blocking": false,
+      "blocked_by": false,
+      "translator_type": "none"
+    },
+    {
+      "id": 18166778,
+      "id_str": "18166778",
+      "name": "Rep. Jim Jordan",
+      "screen_name": "Jim_Jordan",
+      "location": "Washington, D.C. ",
+      "description": "Proudly serving Ohio's beautiful fourth district. Ranking Member on @GOPoversight. Fighting to #DoWhatWeSaid",
+      "url": "https://t.co/wd2j7YpRZm",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/wd2j7YpRZm",
+              "expanded_url": "http://jordan.house.gov/",
+              "display_url": "jordan.house.gov",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1154917,
+      "friends_count": 4053,
+      "listed_count": 4791,
+      "created_at": "Tue Dec 16 17:20:24 +0000 2008",
+      "favourites_count": 1761,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 3874,
+      "lang": null,
+      "status": {
+        "created_at": "Sat Feb 22 16:21:01 +0000 2020",
+        "id": 1231252562055237643,
+        "id_str": "1231252562055237643",
+        "text": "President Trump has been a great friend to Israel:\n\n-Out of the Iran deal\n-Embassy in Jerusalem\n-Recognition of the… https://t.co/yK1xIFEumH",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/yK1xIFEumH",
+              "expanded_url": "https://twitter.com/i/web/status/1231252562055237643",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 3023,
+        "favorite_count": 12948,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "FFFFFF",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/596012379231617025/TtrAXbnA_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/596012379231617025/TtrAXbnA_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/18166778/1406042839",
+      "profile_link_color": "4F90DB",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "BA0D1F",
+      "profile_text_color": "01050D",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "live_following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "muting": false,
+      "blocking": false,
+      "blocked_by": false,
+      "translator_type": "none"
+    },
+    {
+      "id": 208155240,
+      "id_str": "208155240",
+      "name": "Maria Bartiromo",
+      "screen_name": "MariaBartiromo",
+      "location": "New York, NY",
+      "description": "Anchor, Global Markets Editor Mornings with Maria @MorningsMaria 6-9 AM et M-F on @FoxBusiness & @SundayFutures 10:00 AM et Sundays @FoxNews 2-time Emmy winner",
+      "url": "https://t.co/P2XOPgzZZ9",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/P2XOPgzZZ9",
+              "expanded_url": "http://www.MariaBartiromo.com",
+              "display_url": "MariaBartiromo.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 620729,
+      "friends_count": 1400,
+      "listed_count": 4857,
+      "created_at": "Tue Oct 26 18:58:26 +0000 2010",
+      "favourites_count": 19384,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": true,
+      "statuses_count": 29770,
+      "lang": null,
+      "status": {
+        "created_at": "Sun Feb 23 17:31:54 +0000 2020",
+        "id": 1231632792380989441,
+        "id_str": "1231632792380989441",
+        "text": ".@LindseyGrahamSC to begin investigation into potential FISA abuses https://t.co/AlQc80qjvY  @SundayFutures @FoxNews",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "LindseyGrahamSC",
+              "name": "Lindsey Graham",
+              "id": 432895323,
+              "id_str": "432895323",
+              "indices": [
+                1,
+                17
+              ]
+            },
+            {
+              "screen_name": "SundayFutures",
+              "name": "SundayMorningFutures",
+              "id": 2412738884,
+              "id_str": "2412738884",
+              "indices": [
+                93,
+                107
+              ]
+            },
+            {
+              "screen_name": "FoxNews",
+              "name": "Fox News",
+              "id": 1367531,
+              "id_str": "1367531",
+              "indices": [
+                108,
+                116
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/AlQc80qjvY",
+              "expanded_url": "http://ow.ly/fG0k30qk19p",
+              "display_url": "ow.ly/fG0k30qk19p",
+              "indices": [
+                68,
+                91
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"https://www.hootsuite.com\" rel=\"nofollow\">Hootsuite Inc.</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 351,
+        "favorite_count": 1331,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "131516",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme16/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme16/bg.gif",
+      "profile_background_tile": true,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/836620572259864576/2R_lcdhT_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/836620572259864576/2R_lcdhT_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/208155240/1530113997",
+      "profile_link_color": "009999",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": true,
+      "has_extended_profile": true,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "live_following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "muting": false,
+      "blocking": false,
+      "blocked_by": false,
+      "translator_type": "none"
+    },
+    {
+      "id": 818910970567344128,
+      "id_str": "818910970567344128",
+      "name": "Vice President Mike Pence",
+      "screen_name": "VP",
+      "location": "Washington, D.C.",
+      "description": "Vice President Mike Pence. Husband, father, & honored to serve as the 48th Vice President of the United States. Tweets may be archived: https://t.co/eVVzoBb3Zr",
+      "url": "https://t.co/8TGZjBkuaR",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/8TGZjBkuaR",
+              "expanded_url": "http://Whitehouse.gov",
+              "display_url": "Whitehouse.gov",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/eVVzoBb3Zr",
+              "expanded_url": "http://wh.gov/privacy",
+              "display_url": "wh.gov/privacy",
+              "indices": [
+                136,
+                159
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 8497154,
+      "friends_count": 14,
+      "listed_count": 10278,
+      "created_at": "Tue Jan 10 20:02:44 +0000 2017",
+      "favourites_count": 17,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 8338,
+      "lang": null,
+      "status": {
+        "created_at": "Fri Feb 21 16:04:54 +0000 2020",
+        "id": 1230886120730218497,
+        "id_str": "1230886120730218497",
+        "text": "RT @Mike_Pence: Joined Jim Daly for an episode of the Daily Broadcast in Colorado Springs &amp; couldn’t pass up the opportunity to visit the m…",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "Mike_Pence",
+              "name": "Mike Pence",
+              "id": 22203756,
+              "id_str": "22203756",
+              "indices": [
+                3,
+                14
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+          "created_at": "Fri Feb 21 16:01:25 +0000 2020",
+          "id": 1230885243558584323,
+          "id_str": "1230885243558584323",
+          "text": "Joined Jim Daly for an episode of the Daily Broadcast in Colorado Springs &amp; couldn’t pass up the opportunity to vis… https://t.co/jW76rxdTY8",
+          "truncated": true,
+          "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [],
+            "urls": [
+              {
+                "url": "https://t.co/jW76rxdTY8",
+                "expanded_url": "https://twitter.com/i/web/status/1230885243558584323",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  121,
+                  144
+                ]
+              }
+            ]
+          },
+          "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
+          "geo": null,
+          "coordinates": null,
+          "place": null,
+          "contributors": null,
+          "is_quote_status": false,
+          "retweet_count": 325,
+          "favorite_count": 1723,
+          "favorited": false,
+          "retweeted": false,
+          "possibly_sensitive": false,
+          "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 325,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/951600999902281728/s-3S8iBE_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/951600999902281728/s-3S8iBE_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/818910970567344128/1580944734",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "live_following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "muting": false,
+      "blocking": false,
+      "blocked_by": false,
+      "translator_type": "none"
+    },
+    {
+      "id": 2353605901,
+      "id_str": "2353605901",
+      "name": "Ronna McDaniel",
+      "screen_name": "GOPChairwoman",
+      "location": "",
+      "description": "@GOP Chairwoman | Wife, mother of two",
+      "url": "https://t.co/PURDnkBdAH",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/PURDnkBdAH",
+              "expanded_url": "https://goo.gl/CYmMU2",
+              "display_url": "goo.gl/CYmMU2",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 510383,
+      "friends_count": 2595,
+      "listed_count": 2415,
+      "created_at": "Thu Feb 20 18:05:28 +0000 2014",
+      "favourites_count": 6663,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": true,
+      "statuses_count": 13290,
+      "lang": null,
+      "status": {
+        "created_at": "Sun Feb 23 16:28:05 +0000 2020",
+        "id": 1231616729916289026,
+        "id_str": "1231616729916289026",
+        "text": "Exactly.\n \nFrom Buttigieg to Biden to Warren to Bloomberg, each Democrat presidential candidate is on the same page… https://t.co/EA1a0oZL4d",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/EA1a0oZL4d",
+              "expanded_url": "https://twitter.com/i/web/status/1231616729916289026",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"https://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": true,
+        "quoted_status_id": 1231396008942350337,
+        "quoted_status_id_str": "1231396008942350337",
+        "retweet_count": 572,
+        "favorite_count": 1207,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "7087EB",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1186333396873732096/Elg8rktK_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1186333396873732096/Elg8rktK_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/2353605901/1541080717",
+      "profile_link_color": "00759D",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "5C554E",
+      "profile_text_color": "EADDB5",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "live_following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "muting": false,
+      "blocking": false,
+      "blocked_by": false,
+      "translator_type": "none"
+    },
+    {
+      "id": 17685258,
+      "id_str": "17685258",
+      "name": "Brad Parscale - Text TRUMP to 88022",
+      "screen_name": "parscale",
+      "location": "Washington, DC",
+      "description": "Campaign Manager for @realdonaldtrump 2020 Presidential Campaign. #MAGA #KAG #Trump2020",
+      "url": "https://t.co/tCuRLgivxk",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/tCuRLgivxk",
+              "expanded_url": "http://www.donaldjtrump.com/get-involved/",
+              "display_url": "donaldjtrump.com/get-involved/",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 525759,
+      "friends_count": 466,
+      "listed_count": 2820,
+      "created_at": "Thu Nov 27 18:47:32 +0000 2008",
+      "favourites_count": 901,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 4761,
+      "lang": null,
+      "status": {
+        "created_at": "Sun Feb 23 18:15:14 +0000 2020",
+        "id": 1231643696195522561,
+        "id_str": "1231643696195522561",
+        "text": "RT @realDonaldTrump: Look forward to being with all of my friends and supporters @CPAC on Saturday, February 29th! #KAG2020 https://t.co/9b…",
+        "truncated": false,
+        "entities": {
+          "hashtags": [
+            {
+              "text": "KAG2020",
+              "indices": [
+                115,
+                123
+              ]
+            }
+          ],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "realDonaldTrump",
+              "name": "Donald J. Trump",
+              "id": 25073877,
+              "id_str": "25073877",
+              "indices": [
+                3,
+                19
+              ]
+            },
+            {
+              "screen_name": "CPAC",
+              "name": "CPAC 2020 (Text CPAC to 56479)",
+              "id": 120295432,
+              "id_str": "120295432",
+              "indices": [
+                81,
+                86
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+          "created_at": "Sun Feb 23 18:13:13 +0000 2020",
+          "id": 1231643186717544448,
+          "id_str": "1231643186717544448",
+          "text": "Look forward to being with all of my friends and supporters @CPAC on Saturday, February 29th! #KAG2020 https://t.co/9bpnIzFnws",
+          "truncated": false,
+          "entities": {
+            "hashtags": [
+              {
+                "text": "KAG2020",
+                "indices": [
+                  94,
+                  102
+                ]
+              }
+            ],
+            "symbols": [],
+            "user_mentions": [
+              {
+                "screen_name": "CPAC",
+                "name": "CPAC 2020 (Text CPAC to 56479)",
+                "id": 120295432,
+                "id_str": "120295432",
+                "indices": [
+                  60,
+                  65
+                ]
+              }
+            ],
+            "urls": [],
+            "media": [
+              {
+                "id": 1231643170594684928,
+                "id_str": "1231643170594684928",
+                "indices": [
+                  103,
+                  126
+                ],
+                "media_url": "http://pbs.twimg.com/media/ERes8ClVAAAT47S.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/ERes8ClVAAAT47S.jpg",
+                "url": "https://t.co/9bpnIzFnws",
+                "display_url": "pic.twitter.com/9bpnIzFnws",
+                "expanded_url": "https://twitter.com/realDonaldTrump/status/1231643186717544448/photo/1",
+                "type": "photo",
+                "sizes": {
+                  "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                  },
+                  "medium": {
+                    "w": 1024,
+                    "h": 683,
+                    "resize": "fit"
+                  },
+                  "large": {
+                    "w": 1024,
+                    "h": 683,
+                    "resize": "fit"
+                  },
+                  "small": {
+                    "w": 680,
+                    "h": 454,
+                    "resize": "fit"
+                  }
+                }
+              }
+            ]
+          },
+          "extended_entities": {
+            "media": [
+              {
+                "id": 1231643170594684928,
+                "id_str": "1231643170594684928",
+                "indices": [
+                  103,
+                  126
+                ],
+                "media_url": "http://pbs.twimg.com/media/ERes8ClVAAAT47S.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/ERes8ClVAAAT47S.jpg",
+                "url": "https://t.co/9bpnIzFnws",
+                "display_url": "pic.twitter.com/9bpnIzFnws",
+                "expanded_url": "https://twitter.com/realDonaldTrump/status/1231643186717544448/photo/1",
+                "type": "photo",
+                "sizes": {
+                  "thumb": {
+                    "w": 150,
+                    "h": 150,
+                    "resize": "crop"
+                  },
+                  "medium": {
+                    "w": 1024,
+                    "h": 683,
+                    "resize": "fit"
+                  },
+                  "large": {
+                    "w": 1024,
+                    "h": 683,
+                    "resize": "fit"
+                  },
+                  "small": {
+                    "w": 680,
+                    "h": 454,
+                    "resize": "fit"
+                  }
+                }
+              }
+            ]
+          },
+          "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
+          "geo": null,
+          "coordinates": null,
+          "place": null,
+          "contributors": null,
+          "is_quote_status": false,
+          "retweet_count": 5034,
+          "favorite_count": 21708,
+          "favorited": false,
+          "retweeted": false,
+          "possibly_sensitive": false,
+          "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 5034,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "1A1B1F",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1172323281644318726/ZUwgw8Hm_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1172323281644318726/ZUwgw8Hm_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/17685258/1582219751",
+      "profile_link_color": "AB2316",
+      "profile_sidebar_border_color": "FFFFFF",
+      "profile_sidebar_fill_color": "FFFFFF",
+      "profile_text_color": "666666",
+      "profile_use_background_image": false,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "live_following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "muting": false,
+      "blocking": false,
+      "blocked_by": false,
+      "translator_type": "none"
+    },
+    {
+      "id": 818927131883356161,
+      "id_str": "818927131883356161",
+      "name": "Stephanie Grisham",
+      "screen_name": "PressSec",
+      "location": "Washington, D.C.",
+      "description": "@WhiteHouse Press Secretary. Proudly representing @POTUS Trump's Administration. Tweets may be archived: https://t.co/eVVzoBb3Zr.",
+      "url": "https://t.co/wyOVgSLgBV",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/wyOVgSLgBV",
+              "expanded_url": "http://www.WhiteHouse.gov",
+              "display_url": "WhiteHouse.gov",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/eVVzoBb3Zr",
+              "expanded_url": "http://wh.gov/privacy",
+              "display_url": "wh.gov/privacy",
+              "indices": [
+                105,
+                128
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 4269637,
+      "friends_count": 293,
+      "listed_count": 9380,
+      "created_at": "Tue Jan 10 21:06:57 +0000 2017",
+      "favourites_count": 699,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": true,
+      "statuses_count": 3318,
+      "lang": null,
+      "status": {
+        "created_at": "Sun Feb 23 14:43:59 +0000 2020",
+        "id": 1231590534252118017,
+        "id_str": "1231590534252118017",
+        "text": "We are wheels up for India, where @realDonaldTrump &amp; @FLOTUS have a full agenda building upon our many shared value… https://t.co/lHzxFJxtbs",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "realDonaldTrump",
+              "name": "Donald J. Trump",
+              "id": 25073877,
+              "id_str": "25073877",
+              "indices": [
+                34,
+                50
+              ]
+            },
+            {
+              "screen_name": "FLOTUS",
+              "name": "Melania Trump",
+              "id": 818876014390603776,
+              "id_str": "818876014390603776",
+              "indices": [
+                57,
+                64
+              ]
+            }
+          ],
+          "urls": [
+            {
+              "url": "https://t.co/lHzxFJxtbs",
+              "expanded_url": "https://twitter.com/i/web/status/1231590534252118017",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                121,
+                144
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 2194,
+        "favorite_count": 10145,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1146507396354924552/ZCFExjL0_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1146507396354924552/ZCFExjL0_normal.png",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/818927131883356161/1562183587",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "live_following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "muting": false,
+      "blocking": false,
+      "blocked_by": false,
+      "translator_type": "none"
+    },
+    {
+      "id": 22703645,
+      "id_str": "22703645",
+      "name": "Tucker Carlson",
+      "screen_name": "TuckerCarlson",
+      "location": "Washington, DC",
+      "description": "Host of \"Tucker Carlson Tonight\", weeknights at 8 PM ET @FoxNews. My #1 NYT best selling book #ShipOfFools is out now! Re-tweets are emphatic endorsements.",
+      "url": "https://t.co/MKpmJMdXEF",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/MKpmJMdXEF",
+              "expanded_url": "http://www.TuckerCarlson.com",
+              "display_url": "TuckerCarlson.com",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 2980692,
+      "friends_count": 97,
+      "listed_count": 9872,
+      "created_at": "Wed Mar 04 00:03:12 +0000 2009",
+      "favourites_count": 75,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": false,
+      "verified": true,
+      "statuses_count": 3975,
+      "lang": null,
+      "status": {
+        "created_at": "Fri Feb 14 21:25:33 +0000 2020",
+        "id": 1228430098522628096,
+        "id_str": "1228430098522628096",
+        "text": "Breaking CPL News: CNN and MSNBC thought he was Presidential material. But this show wasn’t fooled. Watch tonight a… https://t.co/jqeMrJeG0J",
+        "truncated": true,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [],
+          "urls": [
+            {
+              "url": "https://t.co/jqeMrJeG0J",
+              "expanded_url": "https://twitter.com/i/web/status/1228430098522628096",
+              "display_url": "twitter.com/i/web/status/1…",
+              "indices": [
+                117,
+                140
+              ]
+            }
+          ]
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "is_quote_status": false,
+        "retweet_count": 7720,
+        "favorite_count": 28094,
+        "favorited": false,
+        "retweeted": false,
+        "possibly_sensitive": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/796823622450982912/XYcUsJUI_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/796823622450982912/XYcUsJUI_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/22703645/1539207337",
+      "profile_link_color": "0084B4",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": false,
+      "default_profile_image": false,
+      "following": false,
+      "live_following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "muting": false,
+      "blocking": false,
+      "blocked_by": false,
+      "translator_type": "none"
+    },
+    {
+      "id": 56561449,
+      "id_str": "56561449",
+      "name": "Jesse Watters",
+      "screen_name": "JesseBWatters",
+      "location": "",
+      "description": "Co-Host of @TheFive & Host of @WattersWorld on Fox News Channel. Speaking engagements with Premiere.",
+      "url": "https://t.co/rlbjtqJwnw",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/rlbjtqJwnw",
+              "expanded_url": "https://www.instagram.com/jessewatters/",
+              "display_url": "instagram.com/jessewatters/",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": []
+        }
+      },
+      "protected": false,
+      "followers_count": 1116924,
+      "friends_count": 1075,
+      "listed_count": 2894,
+      "created_at": "Tue Jul 14 01:23:16 +0000 2009",
+      "favourites_count": 15328,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 11131,
+      "lang": null,
+      "status": {
+        "created_at": "Sun Feb 23 17:48:27 +0000 2020",
+        "id": 1231636957039669253,
+        "id_str": "1231636957039669253",
+        "text": "RT @TVNewsHQ: Watch @JesseBWatters: “Trump won every Democrat debate. The Dems are basically just picking who they're going to lose with. M…",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "TVNewsHQ",
+              "name": "TV News HQ",
+              "id": 711356961107918849,
+              "id_str": "711356961107918849",
+              "indices": [
+                3,
+                12
+              ]
+            },
+            {
+              "screen_name": "JesseBWatters",
+              "name": "Jesse Watters",
+              "id": 56561449,
+              "id_str": "56561449",
+              "indices": [
+                20,
+                34
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+          "created_at": "Sun Feb 23 03:42:26 +0000 2020",
+          "id": 1231424049202548737,
+          "id_str": "1231424049202548737",
+          "text": "Watch @JesseBWatters: “Trump won every Democrat debate. The Dems are basically just picking who they're going to lo… https://t.co/NqglnWtlHx",
+          "truncated": true,
+          "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+              {
+                "screen_name": "JesseBWatters",
+                "name": "Jesse Watters",
+                "id": 56561449,
+                "id_str": "56561449",
+                "indices": [
+                  6,
+                  20
+                ]
+              }
+            ],
+            "urls": [
+              {
+                "url": "https://t.co/NqglnWtlHx",
+                "expanded_url": "https://twitter.com/i/web/status/1231424049202548737",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  117,
+                  140
+                ]
+              }
+            ]
+          },
+          "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
+          "geo": null,
+          "coordinates": null,
+          "place": null,
+          "contributors": null,
+          "is_quote_status": false,
+          "retweet_count": 134,
+          "favorite_count": 560,
+          "favorited": false,
+          "retweeted": false,
+          "possibly_sensitive": false,
+          "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 134,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "C0DEED",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/697123861163192320/6ra0cPIS_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/697123861163192320/6ra0cPIS_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/56561449/1455042293",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "live_following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "muting": false,
+      "blocking": false,
+      "blocked_by": false,
+      "translator_type": "none"
+    },
+    {
+      "id": 822215673812119553,
+      "id_str": "822215673812119553",
+      "name": "The White House",
+      "screen_name": "WhiteHouse",
+      "location": "Washington, D.C.",
+      "description": "Welcome to @WhiteHouse! Follow for the latest from President @realDonaldTrump and his Administration. Tweets may be archived: https://t.co/IURuMIrzxb",
+      "url": "https://t.co/wyOVgSLgBV",
+      "entities": {
+        "url": {
+          "urls": [
+            {
+              "url": "https://t.co/wyOVgSLgBV",
+              "expanded_url": "http://www.WhiteHouse.gov",
+              "display_url": "WhiteHouse.gov",
+              "indices": [
+                0,
+                23
+              ]
+            }
+          ]
+        },
+        "description": {
+          "urls": [
+            {
+              "url": "https://t.co/IURuMIrzxb",
+              "expanded_url": "http://whitehouse.gov/privacy",
+              "display_url": "whitehouse.gov/privacy",
+              "indices": [
+                126,
+                149
+              ]
+            }
+          ]
+        }
+      },
+      "protected": false,
+      "followers_count": 20207091,
+      "friends_count": 15,
+      "listed_count": 12945,
+      "created_at": "Thu Jan 19 22:54:27 +0000 2017",
+      "favourites_count": 15,
+      "utc_offset": null,
+      "time_zone": null,
+      "geo_enabled": true,
+      "verified": true,
+      "statuses_count": 15843,
+      "lang": null,
+      "status": {
+        "created_at": "Sun Feb 23 19:29:04 +0000 2020",
+        "id": 1231662275657969665,
+        "id_str": "1231662275657969665",
+        "text": "RT @IvankaTrump: Two years after joining @narendramodi at the Global Entrepreneurial Summit in Hyderabad, I am honored to return to India w…",
+        "truncated": false,
+        "entities": {
+          "hashtags": [],
+          "symbols": [],
+          "user_mentions": [
+            {
+              "screen_name": "IvankaTrump",
+              "name": "Ivanka Trump",
+              "id": 52544275,
+              "id_str": "52544275",
+              "indices": [
+                3,
+                15
+              ]
+            },
+            {
+              "screen_name": "narendramodi",
+              "name": "Narendra Modi",
+              "id": 18839785,
+              "id_str": "18839785",
+              "indices": [
+                41,
+                54
+              ]
+            }
+          ],
+          "urls": []
+        },
+        "source": "<a href=\"https://www.sprinklr.com\" rel=\"nofollow\">TheWhiteHouse</a>",
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "in_reply_to_screen_name": null,
+        "geo": null,
+        "coordinates": null,
+        "place": null,
+        "contributors": null,
+        "retweeted_status": {
+          "created_at": "Sun Feb 23 13:19:43 +0000 2020",
+          "id": 1231569327045910530,
+          "id_str": "1231569327045910530",
+          "text": "Two years after joining @narendramodi at the Global Entrepreneurial Summit in Hyderabad, I am honored to return to… https://t.co/nParDaJe42",
+          "truncated": true,
+          "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "user_mentions": [
+              {
+                "screen_name": "narendramodi",
+                "name": "Narendra Modi",
+                "id": 18839785,
+                "id_str": "18839785",
+                "indices": [
+                  24,
+                  37
+                ]
+              }
+            ],
+            "urls": [
+              {
+                "url": "https://t.co/nParDaJe42",
+                "expanded_url": "https://twitter.com/i/web/status/1231569327045910530",
+                "display_url": "twitter.com/i/web/status/1…",
+                "indices": [
+                  116,
+                  139
+                ]
+              }
+            ]
+          },
+          "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+          "in_reply_to_status_id": null,
+          "in_reply_to_status_id_str": null,
+          "in_reply_to_user_id": null,
+          "in_reply_to_user_id_str": null,
+          "in_reply_to_screen_name": null,
+          "geo": null,
+          "coordinates": null,
+          "place": null,
+          "contributors": null,
+          "is_quote_status": false,
+          "retweet_count": 4726,
+          "favorite_count": 22211,
+          "favorited": false,
+          "retweeted": false,
+          "possibly_sensitive": false,
+          "lang": "en"
+        },
+        "is_quote_status": false,
+        "retweet_count": 4726,
+        "favorite_count": 0,
+        "favorited": false,
+        "retweeted": false,
+        "lang": "en"
+      },
+      "contributors_enabled": false,
+      "is_translator": false,
+      "is_translation_enabled": false,
+      "profile_background_color": "F5F8FA",
+      "profile_background_image_url": null,
+      "profile_background_image_url_https": null,
+      "profile_background_tile": false,
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1059888693945630720/yex0Gcbi_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1059888693945630720/yex0Gcbi_normal.jpg",
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/822215673812119553/1580922287",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "has_extended_profile": false,
+      "default_profile": true,
+      "default_profile_image": false,
+      "following": false,
+      "live_following": false,
+      "follow_request_sent": false,
+      "notifications": false,
+      "muting": false,
+      "blocking": false,
+      "blocked_by": false,
+      "translator_type": "none"
+    }
+  ],
+  "next_cursor": 1562446152694336343,
+  "next_cursor_str": "1562446152694336343",
+  "previous_cursor": 0,
+  "previous_cursor_str": "0",
+  "total_count": null
+}
