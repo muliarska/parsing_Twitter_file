@@ -9,7 +9,7 @@ The user must press "Enter" to exit.
 
 ### An example of running the program:
 
-![] ('map_example.png')
+![] ('map_example.PNG')
 
 ### Conclusion:
 
