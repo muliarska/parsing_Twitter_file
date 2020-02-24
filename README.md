@@ -18,5 +18,7 @@ Result: Proudly serving Ohio's beautiful fourth district. Ranking Member on @GOP
 Press Enter to exit
 ```
 ### Conclusion:
+This module creates fast and convenient navigation for json file 'friends.json' obtained through the Twitter API 
+and access to the keys of various friends of the user.
 
 ## Author: Yana Muliarska
