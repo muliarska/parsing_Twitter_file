@@ -8,9 +8,15 @@ If such a nickname does not exist, the program outputs: "There is no such key in
 The user must press "Enter" to exit.
 
 ### An example of running the program:
-
-![] ('map_example.PNG')
-
+```
+Your friends' screen names: JudgeJeanine, Jim_Jordan, MariaBartiromo, VP, GOPChairwoman, parscale, PressSec, TuckerCarlson, JesseBWatters, WhiteHouse
+Enter screen name of the friend for who you want to receive information: Jim_Jordan
+Enter the key for receiving information (examples: id, id_str, name, screen_name,
+location, description, url, expanded_url, followers_count, friends_count,
+favourites_count, profile_image_url, etc.): description
+Result: Proudly serving Ohio's beautiful fourth district. Ranking Member on @GOPoversight. Fighting to #DoWhatWeSaid
+Press Enter to exit
+```
 ### Conclusion:
 
 ## Author: Yana Muliarska
